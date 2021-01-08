@@ -1,5 +1,6 @@
 [submodule "license-generator"]
 	path = extern/license-generator
 #	url = git@github.com:jmorrison/lcc-license-generator.git
-	url = https://github.com/jmorrison/lcc-license-generator.git
+#	url = https://github.com/jmorrison/lcc-license-generator.git
+	url = ../lcc-license-generator.git
 	branch = develop
